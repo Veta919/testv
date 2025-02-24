@@ -5,7 +5,7 @@
 int main()
 {
     int x, y;
-    printf("vvedite znacenia x: ");
+    printf("vvedite znacenia x: "); //выводит значения на экран
     scanf("%d", &x);
     y = (5 * x + 20) * 2;
     printf("rezultat: y = %d\n", y);
